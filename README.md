@@ -62,6 +62,10 @@
   <img src="https://img.shields.io/badge/OWASP-37474F?style=for-the-badge&logo=owasp&logoColor=white"/>
 </p>
 
+<a href="https://tryhackme.com/p/YasodhaD">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/YasodhaD.png" height="80"/>
+</a>
+
 ---
 
 ### 📊 GitHub Stats
