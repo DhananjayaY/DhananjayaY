@@ -78,9 +78,6 @@
   <img src="https://streak-stats.demolab.com?user=DhananjayaY&theme=radical"/>
 </p>
 
----
 
-### 🐍 Contribution Snake
-<p align="center">
   <img src="https://github.com/DhananjayaY/DhananjayaY/blob/output/github-snake-dark.svg"/>
 </p>
