@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasodha Dhananjaya</h1>
-<h3 align="center">Cybersecurity Enthusiast | Securing the Digital World</h3>
+<h3 align="center">Undergraduate in IT (Cybersecurity) | Aspiring Cyber Security Specialist | Security Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vidumal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,13 +12,13 @@
 - 🔐 Focused on Cybersecurity, Linux, and Network Security
 - 🛠 Building and experimenting with security tools
 - 🤝 Open to collaboration on **Linux & Security Projects**
-- 📫 Contact: **punsithvidumal@gmail.com**
+- 📫 Contact: **yasodha20031108@gmail.com**
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/punsithvidumal">
+  <a href="https://www.linkedin.com/in/yasodha-dhananjaya/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
   <a href="https://kaggle.com/vidumal">
