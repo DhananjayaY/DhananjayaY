@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Punsith Vidumal</h1>
+<h1 align="center">Hi 👋, I'm Yasodha Dhananjaya</h1>
 <h3 align="center">Cybersecurity Enthusiast | Securing the Digital World</h3>
 
 <p align="center">
