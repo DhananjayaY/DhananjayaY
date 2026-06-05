@@ -109,5 +109,5 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Vidumal/Vidumal/blob/output/github-snake-dark.svg"/>
+  <img src="https://github.com/DhananjayaY/DhananjayaY/blob/output/github-snake-dark.svg"/>
 </p>
